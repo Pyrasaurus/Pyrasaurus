@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Pyrasaurus, freelance QA tester, graphics designer and computer expert. Pronouns she/they/fae/
+- 👋 Hi, I’m @Pyrasaurus, freelance QA tester, graphics designer and computer expert. Pronouns she/they/fae.
 - 🏳️‍⚧️ I'm an Intersex Girlflux Transwoman, a Creative Activist Wallflower and Avowed Anarcho-Communist.
 - 👀 I’m interested in creative writing, graphic design, LGBTQIA+ inclusion and a11y.
 - 🌱 I’m currently learning graphic design and activism.
