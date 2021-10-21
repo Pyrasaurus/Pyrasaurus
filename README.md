@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Pyrasaurus, freelance QA tester, graphics designer and video game modder. Pronouns fae/faer.
-- 🏳️‍⚧️ I'm an Transfeminine Genderfae, a Creative Wallflower, and Video Game Modder.
+- 🏳️‍⚧️ I'm Transfeminine Genderfae, a Creative Wallflower, and Video Game Modder.
 - 👀 I’m interested in video game modding, graphic design, LGBTQIA+ inclusion and a11y.
 - 🌱 I’m currently learning graphic design and C#/Unity.
 - 💞️ I’m looking to collaborate on quality assurance and bug reporting, as well as LGBTQIA+ activism and a11y discussions.
